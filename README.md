@@ -1,5 +1,5 @@
 # 📝 CRUD Python - To-Do List
-Aplicação de lista de tarefas desenvolvida em Python, executada via terminal.
+Aplicação de lista de tarefas desenvolvida em Python
 
 ## Funcionalidades
 - ✅ Adicionar tarefas
